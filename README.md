@@ -26,6 +26,6 @@ print(distance(x1,y1,x2,y2))
   
 
 ### OUTPUT:
-![](./EXP%2003.png)
+![output](./EXP03.png)
 
 ### RESULT:
