@@ -8,7 +8,8 @@ Initial variable x2,y2,x1,y1 and assign the value to the variable
 ### Step 2: 
 Then initial variable d
 ### Step 3: 
-Substitute the values in the distance formula  ![](./formula.JPG)
+Substitute the values in the distance formula  
+![](./formula.JPG)
 ### Step 4: 
 Round  of the value d to two decimal
 ### Step 5: 
